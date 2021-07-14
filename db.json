@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstname": "Saad",
+      "lastname": "Adeel",
+      "address": "12 Constance Street",
+      "company": "National University of Science and Technology",
+      "telephone": "03169552014",
+      "id": 1
+    }
+  ]
+}
